@@ -1,0 +1,74 @@
+{
+    "Argentina": {
+        "Confirmed": "High",
+        "Deaths": "Medium"
+    },
+    "Belize": {
+        "Confirmed": "High",
+        "Deaths": "Medium"
+    },
+    "Botswana": {
+        "Confirmed": "High",
+        "Deaths": "Medium"
+    },
+    "Hungary": {
+        "Confirmed": "High",
+        "Deaths": "Medium"
+    },
+    "India": {
+        "Confirmed": "High",
+        "Deaths": "Medium"
+    },
+    "Kiribati": {
+        "Confirmed": "High",
+        "Deaths": "Low"
+    },
+    "Lebanon": {
+        "Confirmed": "High",
+        "Deaths": "Medium"
+    },
+    "Libya": {
+        "Confirmed": "High",
+        "Deaths": "Medium"
+    },
+    "Namibia": {
+        "Confirmed": "High",
+        "Deaths": "Medium"
+    },
+    "Nepal": {
+        "Confirmed": "High",
+        "Deaths": "Medium"
+    },
+    "Papua New Guinea": {
+        "Confirmed": "High",
+        "Deaths": "Medium"
+    },
+    "Paraguay": {
+        "Confirmed": "High",
+        "Deaths": "Medium"
+    },
+    "Philippines": {
+        "Confirmed": "High",
+        "Deaths": "Medium"
+    },
+    "Russia": {
+        "Confirmed": "High",
+        "Deaths": "Medium"
+    },
+    "Sri Lanka": {
+        "Confirmed": "High",
+        "Deaths": "Medium"
+    },
+    "Tunisia": {
+        "Confirmed": "High",
+        "Deaths": "Medium"
+    },
+    "US": {
+        "Confirmed": "High",
+        "Deaths": "Medium"
+    },
+    "Ukraine": {
+        "Confirmed": "High",
+        "Deaths": "Medium"
+    }
+}

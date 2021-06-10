@@ -1,0 +1,214 @@
+{
+    "Afghanistan": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "Algeria": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "Andorra": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "Antigua and Barbuda": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "Bahamas": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "Barbados": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "Belarus": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "Belgium": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "Benin": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "Bhutan": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "Burkina Faso": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "Burundi": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "Cameroon": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "Central African Republic": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "Chad": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "Congo (Brazzaville)": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "Congo (Kinshasa)": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "Cote d'Ivoire": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "Cuba": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "Cyprus": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "Dominican Republic": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "Ecuador": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "Equatorial Guinea": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "Estonia": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "Finland": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "France": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "Gabon": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "Guinea": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "Haiti": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "Ireland": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "Italy": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "Korea, South": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "Kuwait": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "Luxembourg": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "Malaysia": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "Maldives": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "Monaco": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "Nicaragua": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "Nigeria": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "Norway": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "Qatar": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "Singapore": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "Somalia": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "South Sudan": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "Spain": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "Sweden": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "Switzerland": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "Thailand": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "Togo": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "Turkey": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "United Arab Emirates": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "Vietnam": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    },
+    "Yemen": {
+        "Confirmed": "Medium",
+        "Deaths": "Low"
+    }
+}
